@@ -31,14 +31,27 @@ main {
 }
 
 h1 {
-  font-size: 2em;
-  margin-bottom: 10px;
+  font-size: 36px;
+  margin-bottom: 24px;
 }
 
-img {
-  display: block;
-  margin: 0 auto;
+h2 {
+  font-size: 24px;
+  margin-bottom: 16px;
 }
+
+p {
+  font-size: 16px;
+  line-height: 1.5;
+  margin-bottom: 16px;
+}
+
+ul {
+  font-size: 16px;
+  line-height: 1.5;
+  margin-bottom: 16px;
+}
+
 footer {
   background-color: #333;
   color: #fff;
